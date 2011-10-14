@@ -1,0 +1,24 @@
+syntax: glob
+.pida-metadata
+.svn
+.*.swp
+bin/
+lib/
+src/*.a
+src/*.dll
+src/*.exe
+src/*.gch
+src/*.o
+src/*.out
+src/*.so
+src/tags
+lyla/levana
+
+./*.mp3
+./*.ogg
+./*.bmp
+./*.png
+./*.wav
+./lev.so
+./tags
+
