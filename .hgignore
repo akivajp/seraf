@@ -18,6 +18,7 @@ lyla/levana
 ./*.ogg
 ./*.bmp
 ./*.png
+./*.ttf
 ./*.wav
 ./lev.so
 ./tags
